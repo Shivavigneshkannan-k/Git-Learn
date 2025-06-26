@@ -2,6 +2,7 @@
 
 ```bash
 
-    Welcome to Jurassic Park!
+    Welcome to Koomapatty!
+
 
 ```
