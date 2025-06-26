@@ -5,5 +5,5 @@ app.use("/",(req,res)=>{
     res.send("Hello from the server!");
 })
 app.listen(PORT, () => {
-  console.log(`Server is running on http://localhost:${PORT}`);
+  console.log(`Server is running on http://localhost:${PORT} `);
 })
