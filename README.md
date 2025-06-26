@@ -2,6 +2,6 @@
 
 ```bash
 
-    Welcome to Jurassic World!
+    Welcome to Jurassic Park!
 
 ```
